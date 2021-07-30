@@ -1,15 +1,7 @@
-﻿#NoEnv
-SendMode Input
-SetWorkingDir %A_ScriptDir%
-
-CoordMode, Mouse, Client
+﻿#Include parts/run-init-config.ahk
 
 B::
 
-	#Include parts/41-50.ahk
+	#Include parts/41-51.ahk
 	
-Return
-
-Esc::
-	ExitApp
 Return

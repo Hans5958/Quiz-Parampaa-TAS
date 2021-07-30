@@ -1,7 +1,7 @@
 ﻿#Include parts/run-init-config.ahk
 
-B::
+Z::
 
-	#Include parts/31-40.ahk
+	#Include parts/80-89.ahk
 	
 Return

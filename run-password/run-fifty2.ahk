@@ -2,6 +2,6 @@
 
 B::
 
-	#Include parts/31-40.ahk
+	#Include parts/52-66.ahk
 	
 Return

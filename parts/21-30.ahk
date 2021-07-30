@@ -14,7 +14,7 @@ Click, 192 186
 Click, 190 317
 Click, 366 244
 Click, 395 300
-Sleep, 1500 ; TODO improve
+Sleep, 500 ; TODO improve
 
 ; 25
 

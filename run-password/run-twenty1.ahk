@@ -1,15 +1,7 @@
-﻿#NoEnv
-SendMode Event
-SetWorkingDir %A_ScriptDir%/..
-
-CoordMode, Mouse, Client
+﻿#Include parts/run-init-config.ahk
 
 B::
 
 	#Include parts/21-30.ahk
 	
-Return
-
-Esc::
-	ExitApp
 Return

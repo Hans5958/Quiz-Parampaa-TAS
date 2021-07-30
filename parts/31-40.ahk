@@ -24,10 +24,7 @@ Sleep, 1500 ; TODO improve
 
 ; 36
 
-Click, 36, 36, Down
-SendMode Event
-Click, 85, 36, Up
-SendMode %DefaultSendMode%
+FastDragAndDrop(36, 36, 85, 36)
 Click, 38, 36
 
 ; 37
